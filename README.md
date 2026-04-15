@@ -1,7 +1,9 @@
 # Customer Review Analysis: Rating vs. Sentiment
 
 **Author:** Anika Tabassum
+
 **Institution:** University of Redlands, California
+
 **Dataset:** Women's E-Commerce Clothing Reviews — 23,000+ reviews
 
 ## Overview
