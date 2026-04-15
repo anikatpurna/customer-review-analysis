@@ -30,9 +30,3 @@ Python · pandas · scikit-learn · NLTK (VADER) · matplotlib · seaborn
 pip install kagglehub pandas numpy matplotlib seaborn nltk scikit-learn
 jupyter notebook Customer\ Review\ Analysis.ipynb
 ```
-
-## References
-- Hutto & Gilbert (2014) — VADER Sentiment Analysis
-- Pedregosa et al. (2011) — scikit-learn
-- Bird, Klein & Loper (2009) — NLTK
-- Kaggle: Women's E-Commerce Clothing Reviews
